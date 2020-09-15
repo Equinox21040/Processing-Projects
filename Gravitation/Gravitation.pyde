@@ -4,7 +4,7 @@ xvel = 5
 yvel = 3
 xac = 0
 yac = 0
-S = 8000
+S = 4000
 canvas = None
 
 
